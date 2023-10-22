@@ -31,7 +31,7 @@ This project is divided into three steps:
    - Get your tracks information : Artist, Title, Track_id
    - Get your tracks audio feature
 
-4. `Visualize the result`
+3. `Visualize the result`(In-Progress)
 ## Requirements
 
 All of the requirements are **requests, base64, pandas**
